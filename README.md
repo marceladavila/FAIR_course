@@ -58,7 +58,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## How many GATACA's do you see
 
-<ffont-size: 40px;>
+<ffont-size: 200px;>
 GATACAGATAT
 
 CGATACACGAT
