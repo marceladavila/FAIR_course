@@ -1,8 +1,8 @@
 <!--
 
-author:   name last_name
-email:    training@vib.de
-version:  2.0.0
+author:   Marcela Dávila
+email:    marcela.davila@gu.se
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -47,7 +47,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 
-# Course Title
+# Why is bioinformatics important?
 
 ```json   @JSONLD
 {
@@ -106,7 +106,9 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 ```
 
 
-<section>
+
+<!--
+
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
@@ -119,11 +121,10 @@ Example image to ilustrate the front page of the material. This image was [Desig
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
 > To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md)
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md) -->
 
-## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+<!--Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
 
 This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
@@ -133,6 +134,11 @@ The **presentation** which goes alongside this material can be found [here](link
 
 ## Proposed Schedule
 
+1.5 min   brainstorming 
+3.0 min   exercise
+4.0 min   conclusion 
+
+<!--
 Schedule day 1:
 
 - 9:30 - 11:00 - session
@@ -144,39 +150,31 @@ Schedule day 1:
 - 15:30 - 17:00 - session
 
 </section>
-
+-->
 # Lesson overview
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Researchers, students
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
->
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. Basic knowlegde of biology or molecular biology
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  This is a super short exercise to showcase the importance of bioinformatics
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 1. Define the term Bioinformatics 
 >
-> 3. Apply and modify ..... [Applying] 
+> 2. Ilustrate the utility of using bioinformatics in science today
 >
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
->
+<!--
+> 
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
