@@ -45,7 +45,7 @@ edition:  1st
 @end
 
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
--->
+
 
 # Course Title
 
