@@ -1,3 +1,40 @@
+<!--
+title: "Liascript Presentations"
+
+import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+        https://raw.githubusercontent.com/LiaTemplates/BeforeAndAfter/0.0.1/README.md
+
+icon:   https://tess.elixir-europe.org/assets/elixir/elixir-tess-219b707c4912e9c46c917a24ce72b464ec9f2fd56ce03dbcee8b2f6b9ac98a44.svg
+
+link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+        https://fonts.googleapis.com/css?family=Lato:400,400italic,700
+        style.css
+
+@runR: @LIA.eval(`["main.R"]`, `none`, `Rscript main.R`)
+
+@JSONLD
+<script run-once>
+  let json = @0 
+
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.text = JSON.stringify(json);
+
+  document.head.appendChild(script);
+
+  // this is only needed to prevent and output,
+  // as long as the result of a script is undefined,
+  // it is not shown or rendered within LiaScript
+  console.debug("added json to head")
+</script>
+@end
+
+
+link:   https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+
+-->
+
 # Mini-Lesson overview
 
 ## Utility of Bioinformatics
