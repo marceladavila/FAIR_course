@@ -37,7 +37,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 # Mini-Lesson overview
 
-## Utility of Bioinformatics
+- Utility of Bioinformatics -
 
 *  **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
