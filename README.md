@@ -47,9 +47,8 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 
-# Why is bioinformatics important?
-
-```json   @JSONLD
+```
+json   @JSONLD
 {
   "@context": "https://schema.org/",
   "@type": "LearningResource",
