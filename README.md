@@ -1,25 +1,23 @@
 # Mini-Lesson overview
 
-> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
->
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, students
->
-> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
-> <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. Basic knowlegde of biology or molecular biology
->
-> <i class="fa fa-bookmark"></i> **Description**  This is a super short exercise to showcase the importance of bioinformatics
-> 
-> <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
-> By the end of the course, learners will be able to:
->
->
-> 1. Define the term Bioinformatics 
->
-> 2. Ilustrate the utility of using bioinformatics in science today
->
+<i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+<i class="fa fa-user"></i> **Target Audience:** Researchers, students
+
+<svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
+<i class="fa fa-arrow-left"></i> **Prerequisites**  
+To be able to follow this course, learners should have knowledge in:
+ 
+1. Basic knowlegde of biology or molecular biology
+
+<i class="fa fa-bookmark"></i> **Description**  This is a super short exercise to showcase the importance of bioinformatics
+ 
+<i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
+By the end of the course, learners will be able to:
+
+1. Define the term Bioinformatics 
+2. Ilustrate the utility of using bioinformatics in science today
+
 <!--
 > 
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
@@ -112,4 +110,4 @@ Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[or
 Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
+-->
