@@ -57,7 +57,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 ## What is bioinformatics
 
 ## How many GATACA's do you see
-![]("https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png")
+![](https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png)
 
 
 
