@@ -37,7 +37,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 # Mini-Lesson overview
 
-- Utility of Bioinformatics -
+## Utility of Bioinformatics
 
 *  **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
@@ -53,4 +53,11 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
      1. Define the term Bioinformatics 
      2. Ilustrate the utility of using bioinformatics in science today
+
+## What is bioinformatics
+
+## How many GATACA's do you see
+![]("https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png")
+
+
 
