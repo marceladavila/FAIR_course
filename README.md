@@ -58,7 +58,10 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## How many GATACA's do you see
 
-<a href="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png"><img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png" width=80%></a>
+<img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png" width=80%></a>
+
+<img src="https://github.com/marceladavila/img/blob/main/HIV_treatment_e_2024.png" width=30%>
+
 
 ## There are 4 
 
