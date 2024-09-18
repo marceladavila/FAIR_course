@@ -130,14 +130,12 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
 The **presentation** which goes alongside this material can be found [here](link).
-
 ## Proposed Schedule
 
 1.5 min   brainstorming 
 3.0 min   exercise
 4.0 min   conclusion 
 
-<!--
 Schedule day 1:
 
 - 9:30 - 11:00 - session
@@ -150,6 +148,7 @@ Schedule day 1:
 
 </section>
 -->
+
 # Lesson overview
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
