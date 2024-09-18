@@ -58,7 +58,11 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## How many GATACA's do you see
 
-<img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png" >
+<!--[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/main/images/uno.png)[https://liascript.github.io/cours]-->
+
+<img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png">
+
+<a href="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png"><img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png" alt="HIV-genome.png"  width=80%></a>
 
 ## There are 4 
 
