@@ -58,13 +58,19 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## How many GATACA's do you see
 
-         {{0-1}}
-**********************
+![](https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png)
+
+## There are 4 
+
+![](https://github.com/marceladavila/FAIR_course/blob/main/images/dos.png)
+
+
+## And now??
+
+![](https://github.com/marceladavila/FAIR_course/blob/main/images/tres.png)
+
+## Not so easy right?
 
 ![](https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png)
 
 
-*******************
-
-          {{1}}
-**********************
