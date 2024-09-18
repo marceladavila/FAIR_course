@@ -58,8 +58,13 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## How many GATACA's do you see
 
-<a><img src="https://github.com/marceladavila/FAIR_course/blob/main/images/uno.png" width=80%></a>
+GATACAGATAT
 
+CGATACACGAT
+
+ACAGATCGACA
+
+TACGAGATACA
 
 
 ## There are 4 
