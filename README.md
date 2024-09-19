@@ -115,8 +115,8 @@ TACGAGATACA
 
 ## There are 4 
 
-![](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/dos.png)
-![](../FAIR_course/images/dos.png)
+![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/dos.png)
+![2](../FAIR_course/images/dos.png)
 
 
 
