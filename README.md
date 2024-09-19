@@ -57,6 +57,10 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
   "learningResourceType": [
     "tutorial"
   ],
+"identifier": [
+  "https://zenodo.org/doi/10.5281/zenodo.13784767"
+]
+  
   "author": [
     {
       "@type": "Person",
@@ -72,6 +76,8 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 # Mini-Lesson overview
 
 ## It is easier with Bioinformatics
+
+* **Identifier:**   https://zenodo.org/doi/10.5281/zenodo.13784767
 
 *  This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) 
 
