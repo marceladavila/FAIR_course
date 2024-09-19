@@ -33,7 +33,6 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 link:   https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
 script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
--->
 
 {
   "@context": "https://schema.org/",
@@ -65,6 +64,10 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
     }
   ]
 }
+
+-->
+
+
 
 # Mini-Lesson overview
 
