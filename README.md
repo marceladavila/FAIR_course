@@ -35,6 +35,37 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 -->
 
+{
+  "@context": "https://schema.org/",
+  "@type": "LearningResource",
+  "@id": "https://dev.tess.elixir-europe.org/events/easy-with-bioinformatics",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  },
+  "description": "This is a super short exercise to showcase the importance of bioinformatics",
+  "keywords": "Bioinformatics",
+  "name": "It is easier with Bioinformatics",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "educationalLevel": "beginner",
+  "competencyRequired": "none",
+  "teaches": [
+    "Define the term Bioinformatics", 
+    "Ilustrate the utility of using bioinformatics in a toy example"
+  ],
+  "audience": "researchers","students",
+  "inLanguage": "en-US",
+  "learningResourceType": [
+    "tutorial"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Marcela Dávila"
+    }
+  ]
+}
+
 # Mini-Lesson overview
 
 ## It is easier with Bioinformatics
