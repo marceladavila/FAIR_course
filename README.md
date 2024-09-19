@@ -87,4 +87,24 @@ GCTACGTGATGACGGATACAGTCAGCGCGTATCGAGGAAGATATATAGATAAGTAGGATACAGATGATGTG
 
 ![](https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png)
 
+## With a little coding
 
+``` sh
+% grep GATACA gataca.txt -o
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+GATACA
+
+% grep GATACA gataca.txt -o | wc -l
+12
+
+```
