@@ -58,7 +58,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
     "tutorial"
   ],
 "identifier": [
-  "https://zenodo.org/doi/10.5281/zenodo.13784767"
+  "https://zenodo.org/doi/10.5281/zenodo.13794531"
 ]
   
   "author": [
@@ -77,7 +77,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## It is easier with Bioinformatics
 
-* **Identifier:**   https://zenodo.org/doi/10.5281/zenodo.13784767
+* **Identifier:**  [ https://zenodo.org/doi/10.5281/zenodo.13784767](https://zenodo.org/doi/10.5281/zenodo.13794531)
 
 *  This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) 
 
