@@ -67,7 +67,9 @@ TACGAGATACA
 
 ## There are 4 
 
-![](https://github.com/marceladavila/FAIR_course/blob/main/images/dos.png)
+![](blob/main/images/dos.png)
+![](images/dos.png)
+![](dos.png)
 
 
 ## And now??
