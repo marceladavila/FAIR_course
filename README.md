@@ -59,10 +59,10 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 ## How many GATACA's do you see
 
 <font size="200">
-GATACAGATAT<br><br><br>
-CGATACACGAT<br>
-ACAGATCGACA<br>
-TACGAGATACA
+* GATACAGATAT 
+* CGATACACGAT
+* ACAGATCGACA
+* TACGAGATACA
 </font>
 
 ## There are 4 
