@@ -60,12 +60,9 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 <font size="200">
 
-GATACAGATAT
-
-CGATACACGAT
-
-ACAGATCGACA
-
+GATACAGATAT<br>
+CGATACACGAT<br>
+ACAGATCGACA<br>
 TACGAGATACA
 </font>
 
