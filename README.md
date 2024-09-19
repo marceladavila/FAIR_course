@@ -106,24 +106,19 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/marceladav
 
 ## How many GATACA's do you see
 
-```
-GATACAGATAT 
-CGATACACGAT
-ACAGATCGACA
-TACGAGATACA
-```
+![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/one.png)
 
 ## There are 4 
 
 ![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/dos.png)
-![2](../FAIR_course/images/dos.png)
 
 
 
 ## And now??
 
-![](https://github.com/marceladavila/FAIR_course/blob/main/images/tres.png)
+![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/tres.png)
 
+<!--
 ```
 GATACAGATATGATACCCCAGGGATGCAGCTAGATCGATCGATGCTAGCTGATCGTACGTCGGATACAGAT 
 CGATACACGATCTACGTAGCTGACTGTACGGTGCGTAGGATATATATAGGATACAGTCAGTACGTCGGATA
@@ -132,10 +127,12 @@ GTACGTACGACTAGCTAGGATACAGGTGTGATACAGTAGGATAGCGCTACGTACGATCGATGGTACACGAT
 ACAGATACATCGTACGATGCTAGTCAGCAGAGATCATAGGATACAGTAGGACGACTGACGTACGTACGACG
 GCTACGTGATGACGGATACAGTCAGCGCGTATCGAGGAAGATATATAGATAAGTAGGATACAGATGATGTG
 ```
+-->
 
 ## Not so easy right?
 
-![](https://github.com/marceladavila/FAIR_course/blob/main/images/cuatro.png)
+![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/cuatro.png)
+
 
 Imagine there is a video here :)
 
