@@ -45,13 +45,15 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 * **Target Audience:** Researchers, students
 
-* **Level:** Beginner  
+* **Level:** Beginner
+
+*  **Keywords:** Bioinformatics
 
 * **Prerequisites:** To be able to follow this course, learners should have basic knowledge in biology or molecular biology
 
 * **Description:** This is a super short exercise to showcase the importance of bioinformatics
  
-* **Learning Outcomes:**  By the end of the course, learners will be able to:
+* **Learning Outcomes:**  By the end of the course, participants will be able to:
 
      1. Define the term Bioinformatics 
      2. Ilustrate the utility of using bioinformatics in science today
