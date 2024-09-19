@@ -106,7 +106,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/marceladav
 
 ## How many GATACA's do you see
 
-![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/one.png)
+![1](https://raw.githubusercontent.com/marceladavila/FAIR_course/refs/heads/main/images/uno.png)
 
 ## There are 4 
 
