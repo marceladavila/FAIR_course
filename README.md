@@ -54,6 +54,8 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
      1. Define the term Bioinformatics 
      2. Ilustrate the utility of using bioinformatics in science today
 
+This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
+
 ## What is bioinformatics
 
 ## How many GATACA's do you see
@@ -67,6 +69,7 @@ TACGAGATACA
 
 ## There are 4 
 
+![](https://github.com/marceladavila/FAIR_course/blob/main/images/dos.png)
 ![](blob/main/images/dos.png)
 ![](images/dos.png)
 ![](dos.png)
